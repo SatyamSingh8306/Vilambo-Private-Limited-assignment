@@ -44,8 +44,8 @@ Ensure you have the following before getting started:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/email-summarizer.git
-   cd email-summarizer
+   git clone https://github.com/SatyamSingh8306/Vilambo-Private-Limited-assignment.git
+   cd Vilambo-Private-Limited-assignment
    ```
 
 2. **Install Dependencies**
